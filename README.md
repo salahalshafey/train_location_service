@@ -1,16 +1,24 @@
-# train_location_service
+# Train GPS
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## A Flutter project is mainly used for 
+* Getting the current `train station` of the user **Riding a train**.
+* Getting `Next Station`.
+* Getting the `time` or `distance` remaining to the next station.
+* Also getting the `Speed` of the train.
+* This Feature currently working with `Cairo-Alex` Line in **Egypt**.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## How achieving the above
+ * Using [location](https://pub.dev/packages/location) plugin for getting The location `Stream`.
+ * By Saving all the `train station` `Latitude and Longitude` of the `Cairo-Alex` Line in **Egypt**.
+ * And then Handling the logic of getting the above features. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Download the app in apk for android
+<a href="https://play.google.com/store/apps/details?id=com.salahalshafey.breastcancerawareness"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+
+
+## app pages
+<img src="https://github.com/salahalshafey/train_location_service/assets/64344500/63f3fc4d-c136-445c-8030-73a3a0eba87d" alt="Image 1" width="256px"/>  <img src="https://github.com/salahalshafey/train_location_service/assets/64344500/a227c152-4b25-448e-91ef-e4ab48772f2c" alt="Image 1" width="256px"/>  <img src="https://github.com/salahalshafey/train_location_service/assets/64344500/4c80b82a-b704-4907-8b2f-f10ab94b0d2c" alt="Image 1" width="256px"/>
