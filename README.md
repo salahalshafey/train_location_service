@@ -17,7 +17,7 @@
 
 
 ## Download the app in apk for android
-<a href="https://github.com/salahalshafey/train_location_service/raw/main/assets/Train%20GPS.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/salahalshafey/train_location_service/raw/main/assets/Train%20GPS.apk"><img src="https://playerzon.com/asset/download.png" width="300"></img></a>
 
 
 ## app pages
